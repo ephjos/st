@@ -10,7 +10,7 @@ static char *font2[] = {
 	"Noto Sans CJK JP:pixelsize=10:antialias=true:autohint=true",
 	"JoyPixels:pixelsize=10:antialias=true:autohint=true",
 };
-static int borderpx = 5;
+static int borderpx = 0;
 
 /*
  * What program is execed by st depends of these precedence rules:
